@@ -1,32 +1,50 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.0": {}
+    ".NETCoreApp,Version=v3.0": {
+      "latinosenlouisville.core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/latinosenlouisville.core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/latinosenlouisville.core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "latinosenlouisville.core/1.0.0": {
+      "type": "project",
+      "path": "../latinosenlouisville.core/latinosenlouisville.core.csproj",
+      "msbuildProject": "../latinosenlouisville.core/latinosenlouisville.core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.0": []
+    ".NETCoreApp,Version=v3.0": [
+      "latinosenlouisville.core >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\bsb7hqh\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\Projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville.data\\latinosenlouisville.data.csproj",
+      "projectUniqueName": "C:\\Users\\bsb7hqh\\projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville.data\\latinosenlouisville.data.csproj",
       "projectName": "latinosenlouisville.data",
-      "projectPath": "C:\\Users\\User\\Documents\\Projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville.data\\latinosenlouisville.data.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\Projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville.data\\obj\\",
+      "projectPath": "C:\\Users\\bsb7hqh\\projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville.data\\latinosenlouisville.data.csproj",
+      "packagesPath": "C:\\Users\\bsb7hqh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bsb7hqh\\projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville.data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\bsb7hqh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
@@ -37,7 +55,11 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\bsb7hqh\\projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville.core\\latinosenlouisville.core.csproj": {
+              "projectPath": "C:\\Users\\bsb7hqh\\projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville.core\\latinosenlouisville.core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -6,6 +6,7 @@
 
 
   <ItemGroup>
+    <ProjectReference Include="../latinosenlouisville.data/latinosenlouisville.data.csproj" />
   </ItemGroup>
 
 </Project>

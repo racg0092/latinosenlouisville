@@ -4,4 +4,7 @@
     <TargetFramework>netcoreapp3.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="../latinosenlouisville.core/latinosenlouisville.core.csproj" />
+  </ItemGroup>
 </Project>

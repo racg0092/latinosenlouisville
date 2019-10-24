@@ -1,25 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Documents\\Projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville.core\\latinosenlouisville.core.csproj": {}
+    "C:\\Users\\bsb7hqh\\projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville.core\\latinosenlouisville.core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Documents\\Projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville.core\\latinosenlouisville.core.csproj": {
+    "C:\\Users\\bsb7hqh\\projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville.core\\latinosenlouisville.core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Documents\\Projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville.core\\latinosenlouisville.core.csproj",
+        "projectUniqueName": "C:\\Users\\bsb7hqh\\projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville.core\\latinosenlouisville.core.csproj",
         "projectName": "latinosenlouisville.core",
-        "projectPath": "C:\\Users\\User\\Documents\\Projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville.core\\latinosenlouisville.core.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Documents\\Projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville.core\\obj\\",
+        "projectPath": "C:\\Users\\bsb7hqh\\projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville.core\\latinosenlouisville.core.csproj",
+        "packagesPath": "C:\\Users\\bsb7hqh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bsb7hqh\\projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville.core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\bsb7hqh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
