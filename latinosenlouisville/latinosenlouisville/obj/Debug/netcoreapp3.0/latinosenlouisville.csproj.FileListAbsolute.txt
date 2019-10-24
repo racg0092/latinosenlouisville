@@ -72,3 +72,4 @@ C:\Users\bsb7hqh\projects\latinosenlouisville\latinosenlouisville\latinosenlouis
 C:\Users\bsb7hqh\projects\latinosenlouisville\latinosenlouisville\latinosenlouisville\bin\Debug\netcoreapp3.0\latinosenlouisville.data.dll
 C:\Users\bsb7hqh\projects\latinosenlouisville\latinosenlouisville\latinosenlouisville\bin\Debug\netcoreapp3.0\latinosenlouisville.data.pdb
 C:\Users\bsb7hqh\projects\latinosenlouisville\latinosenlouisville\latinosenlouisville\bin\Debug\netcoreapp3.0\latinosenlouisville.core.pdb
+C:\Users\bsb7hqh\projects\latinosenlouisville\latinosenlouisville\latinosenlouisville\obj\Debug\netcoreapp3.0\Razor\Pages\Restaurants\List.cshtml.g.cs
