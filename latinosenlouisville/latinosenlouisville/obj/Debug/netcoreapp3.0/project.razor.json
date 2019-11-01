@@ -14379,8 +14379,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Pages\\Restaurants\\index.cshtml",
-      "TargetPath": "Pages\\Restaurants\\index.cshtml",
+      "FilePath": "Pages\\Restaurants\\Index.cshtml",
+      "TargetPath": "Pages\\Restaurants\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
