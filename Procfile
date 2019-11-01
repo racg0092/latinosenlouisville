@@ -1,1 +1,0 @@
-web: cd latinosenlouisville/latinosenlouisville && dotnet run
