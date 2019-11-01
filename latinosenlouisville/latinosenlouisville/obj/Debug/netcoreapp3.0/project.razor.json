@@ -14377,6 +14377,11 @@
       "FilePath": "Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Pages\\Restaurants\\index.cshtml",
+      "TargetPath": "Pages\\Restaurants\\index.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"

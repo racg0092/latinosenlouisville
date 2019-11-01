@@ -8,7 +8,7 @@ using Microsoft.Extensions.Logging;
 
 namespace latinosenlouisville.Pages.Restaurants
 {
-    public class ListModel : PageModel 
+    public class IndexModel : PageModel 
     {
         public void OnGet()
         {

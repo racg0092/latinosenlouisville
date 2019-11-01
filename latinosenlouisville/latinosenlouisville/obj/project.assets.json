@@ -45,24 +45,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bsb7hqh\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bsb7hqh\\projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\Projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville.csproj",
       "projectName": "latinosenlouisville",
-      "projectPath": "C:\\Users\\bsb7hqh\\projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville.csproj",
-      "packagesPath": "C:\\Users\\bsb7hqh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bsb7hqh\\projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville\\obj\\",
+      "projectPath": "C:\\Users\\User\\Documents\\Projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Documents\\Projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\bsb7hqh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
@@ -74,8 +75,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\bsb7hqh\\projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville.data\\latinosenlouisville.data.csproj": {
-              "projectPath": "C:\\Users\\bsb7hqh\\projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville.data\\latinosenlouisville.data.csproj"
+            "C:\\Users\\User\\Documents\\Projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville.data\\latinosenlouisville.data.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\Projects\\latinosenlouisville\\latinosenlouisville\\latinosenlouisville.data\\latinosenlouisville.data.csproj"
             }
           }
         }

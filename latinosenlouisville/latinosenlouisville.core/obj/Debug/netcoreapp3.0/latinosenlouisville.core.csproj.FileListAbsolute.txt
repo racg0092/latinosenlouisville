@@ -6,3 +6,11 @@ C:\Users\bsb7hqh\projects\latinosenlouisville\latinosenlouisville\latinosenlouis
 C:\Users\bsb7hqh\projects\latinosenlouisville\latinosenlouisville\latinosenlouisville.core\obj\Debug\netcoreapp3.0\latinosenlouisville.core.AssemblyInfo.cs
 C:\Users\bsb7hqh\projects\latinosenlouisville\latinosenlouisville\latinosenlouisville.core\obj\Debug\netcoreapp3.0\latinosenlouisville.core.dll
 C:\Users\bsb7hqh\projects\latinosenlouisville\latinosenlouisville\latinosenlouisville.core\obj\Debug\netcoreapp3.0\latinosenlouisville.core.pdb
+C:\Users\User\Documents\Projects\latinosenlouisville\latinosenlouisville\latinosenlouisville.core\bin\Debug\netcoreapp3.0\latinosenlouisville.core.deps.json
+C:\Users\User\Documents\Projects\latinosenlouisville\latinosenlouisville\latinosenlouisville.core\bin\Debug\netcoreapp3.0\latinosenlouisville.core.dll
+C:\Users\User\Documents\Projects\latinosenlouisville\latinosenlouisville\latinosenlouisville.core\bin\Debug\netcoreapp3.0\latinosenlouisville.core.pdb
+C:\Users\User\Documents\Projects\latinosenlouisville\latinosenlouisville\latinosenlouisville.core\obj\Debug\netcoreapp3.0\latinosenlouisville.core.csprojAssemblyReference.cache
+C:\Users\User\Documents\Projects\latinosenlouisville\latinosenlouisville\latinosenlouisville.core\obj\Debug\netcoreapp3.0\latinosenlouisville.core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Projects\latinosenlouisville\latinosenlouisville\latinosenlouisville.core\obj\Debug\netcoreapp3.0\latinosenlouisville.core.AssemblyInfo.cs
+C:\Users\User\Documents\Projects\latinosenlouisville\latinosenlouisville\latinosenlouisville.core\obj\Debug\netcoreapp3.0\latinosenlouisville.core.dll
+C:\Users\User\Documents\Projects\latinosenlouisville\latinosenlouisville\latinosenlouisville.core\obj\Debug\netcoreapp3.0\latinosenlouisville.core.pdb

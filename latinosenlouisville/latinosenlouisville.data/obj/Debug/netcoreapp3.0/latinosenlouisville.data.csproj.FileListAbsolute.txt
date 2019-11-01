@@ -9,3 +9,14 @@ C:\Users\bsb7hqh\projects\latinosenlouisville\latinosenlouisville\latinosenlouis
 C:\Users\bsb7hqh\projects\latinosenlouisville\latinosenlouisville\latinosenlouisville.data\bin\Debug\netcoreapp3.0\latinosenlouisville.core.dll
 C:\Users\bsb7hqh\projects\latinosenlouisville\latinosenlouisville\latinosenlouisville.data\bin\Debug\netcoreapp3.0\latinosenlouisville.core.pdb
 C:\Users\bsb7hqh\projects\latinosenlouisville\latinosenlouisville\latinosenlouisville.data\obj\Debug\netcoreapp3.0\latinosenlouisville.data.csproj.CopyComplete
+C:\Users\User\Documents\Projects\latinosenlouisville\latinosenlouisville\latinosenlouisville.data\bin\Debug\netcoreapp3.0\latinosenlouisville.data.deps.json
+C:\Users\User\Documents\Projects\latinosenlouisville\latinosenlouisville\latinosenlouisville.data\bin\Debug\netcoreapp3.0\latinosenlouisville.data.dll
+C:\Users\User\Documents\Projects\latinosenlouisville\latinosenlouisville\latinosenlouisville.data\bin\Debug\netcoreapp3.0\latinosenlouisville.data.pdb
+C:\Users\User\Documents\Projects\latinosenlouisville\latinosenlouisville\latinosenlouisville.data\bin\Debug\netcoreapp3.0\latinosenlouisville.core.dll
+C:\Users\User\Documents\Projects\latinosenlouisville\latinosenlouisville\latinosenlouisville.data\bin\Debug\netcoreapp3.0\latinosenlouisville.core.pdb
+C:\Users\User\Documents\Projects\latinosenlouisville\latinosenlouisville\latinosenlouisville.data\obj\Debug\netcoreapp3.0\latinosenlouisville.data.csprojAssemblyReference.cache
+C:\Users\User\Documents\Projects\latinosenlouisville\latinosenlouisville\latinosenlouisville.data\obj\Debug\netcoreapp3.0\latinosenlouisville.data.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Projects\latinosenlouisville\latinosenlouisville\latinosenlouisville.data\obj\Debug\netcoreapp3.0\latinosenlouisville.data.AssemblyInfo.cs
+C:\Users\User\Documents\Projects\latinosenlouisville\latinosenlouisville\latinosenlouisville.data\obj\Debug\netcoreapp3.0\latinosenlouisville.data.csproj.CopyComplete
+C:\Users\User\Documents\Projects\latinosenlouisville\latinosenlouisville\latinosenlouisville.data\obj\Debug\netcoreapp3.0\latinosenlouisville.data.dll
+C:\Users\User\Documents\Projects\latinosenlouisville\latinosenlouisville\latinosenlouisville.data\obj\Debug\netcoreapp3.0\latinosenlouisville.data.pdb
